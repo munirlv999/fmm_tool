@@ -1,0 +1,5 @@
+# FMM Tool v3 - Modular CLI Edition
+# Football Manager Mobile - Data Editor Tool
+
+# Optional but recommended for enhanced UI
+rich>=13.0.0
